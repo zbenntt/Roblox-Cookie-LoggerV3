@@ -1,4 +1,4 @@
-# This Is The First Cookie Logger Fake Link
+# This Is The Best Cookie Logger That Uses A Fake Link
 
 Step 1; Download Zip and extract
 Step 2; Run the requirements file and wait until it finishes and installs all requirements
