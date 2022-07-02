@@ -1,4 +1,4 @@
-# This Is The Best Cookie Logger That Uses A Fake Link
+# This Is The Best Free Cookie Logger That Uses A Fake Link
 
 # Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
 
