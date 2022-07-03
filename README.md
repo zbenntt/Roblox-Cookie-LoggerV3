@@ -24,7 +24,3 @@ Step 7; Click Create Stub and wait until it finishes and then go to the folder w
 
 # What It Does
 Its a simple gui i made that creates a stub and it steals anybodys chrome, firefox, opera cookies
-
-# credits
-
-Discord; Blakeplaaaz#4879
