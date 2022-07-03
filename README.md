@@ -4,6 +4,8 @@
 
 # Sorry About the Gui It looks Ugly
 
+<img width="297" alt="Screenshot 2022-07-03 133852" src="https://user-images.githubusercontent.com/108227869/177040115-5a563764-ad63-4566-95b7-7c82671a2933.png">
+
 # STEPS BELOW
 
 step 0; if you dont have python3 installed go to https://www.python.org/downloads/ and download the latest python
