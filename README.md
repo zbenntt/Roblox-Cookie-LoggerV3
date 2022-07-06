@@ -21,7 +21,7 @@
 
 # Sorry About the Gui It looks Ugly
 
-<img width="288" alt="Screenshot 2022-07-03 133852" src="https://user-images.githubusercontent.com/108227869/177040180-d6c2a00d-24a1-4ee4-8498-406ca9bbe473.png">
+<img width="288" alt="Screenshot 2022-07-03 133852" src="https://user-images.githubusercontent.com/108227869/177040180-d6c2a00d-24a1-4ee4-8498-406ca9bbe473.png"> <img width="295" alt="Screenshot 2022-07-06 160311" src="https://user-images.githubusercontent.com/108227869/177583804-0b84ab43-41f8-4b1c-97ef-55d49abea39f.png">
 
 
 # STEPS👣 BELOW
