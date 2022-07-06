@@ -1,0 +1,13 @@
+|V2 FEATURES|
+
+Added Discord Token Logger
+
+Added Password Logger
+
+_____________________
+||NEED TO ADD IN V3||
+|                   |
+|EXE to PNG         | 
+|                   |
+|Image Logger Option|
+---------------------
