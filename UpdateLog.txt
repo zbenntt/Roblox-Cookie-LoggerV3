@@ -1,13 +1,11 @@
-|V2 FEATURES|
+|V3 FEATURES|
 
-Added Discord Token Logger
-
-Added Password Logger
-
+  Added EXE TO PYTHON
+  Added Bloxflip,RBLXWILD,RBXFLIP Token stealers
 _____________________
-||NEED TO ADD IN V3||
+||NEED TO ADD IN V4||
 |                   |
-|EXE to PNG         | 
+|  Better GUI       | 
 |                   |
-|Image Logger Option|
+| More Features     |
 ---------------------
