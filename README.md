@@ -10,6 +10,8 @@
 # Features 🛡️
 1; Roblox Cookie Logger
 
+2; Bloxflip Token Logger And RAT
+
 2; Roblox Info Such As Roblox Friends, Followers, Username And Gamepasses All Sent To Webhook 
 
 # Extra Features 🛡️🛡️
