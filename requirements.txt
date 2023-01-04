@@ -1,4 +1,0 @@
-pip install browser-cookie3
-pip install robloxpy
-pip install requests
-pip install json
