@@ -4,8 +4,6 @@
 
 # Go To Releases And Click V3 And Download
 
-# You NEED Python For It To Work Follow This Tutorial If You Dont Know How https://www.tutorialspoint.com/how-to-install-python-in-windows# Also Click The Add To PATH Button When In The Python Installation Gui
-
 # Features 🛡️
 1; Roblox Cookie Logger
 
