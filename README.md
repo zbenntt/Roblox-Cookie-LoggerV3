@@ -1,4 +1,4 @@
-# This Is The Best Free Cookie Logger That Uses A Stub Builder If Your On PC Or Laptop Go Bottom Right And You Will See Releases Click To Download If On Mobile Go To The Very Bottom
+# This Is The Best Free Cookie Logger That Uses A Stub Builder If Your On PC Or Laptop Go Bottom Right And You Will See Releases Click To Download
 
 ![download](https://user-images.githubusercontent.com/108227869/177584583-e468fb2a-d8c8-4cf8-9d26-0fbc75e3bc6c.gif)
 
