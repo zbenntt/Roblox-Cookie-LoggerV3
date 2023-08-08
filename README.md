@@ -22,7 +22,7 @@ Then Once Downloaded Run Open Beam.py
 
 2; Ip Logger
 
-3; Geolocation (Its Like The Ip Logger But Its Exactly Where The Person Opened The Stub)
+3; Geolocation (Its Like The Ip Logger But Its Precise To Where It Was Opened)
 
 # What It Does
 Its a simple gui i made that creates a stub and it steals anybodys chrome, firefox, opera cookies
