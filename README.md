@@ -23,4 +23,5 @@ Click It And Wait Around 2 Minutes It Should Be Done.
 
 • Refresh The Page And Your In Their Account.
 
-# What It Does
+# How Does It Work
+Its A Simple GUI I Made That Abuses A Glitch In Chrome/Google On The Roblox Site.
