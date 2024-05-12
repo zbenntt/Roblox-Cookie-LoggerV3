@@ -1,18 +1,18 @@
 {
-    "name": "ProBlox+",
-    "version": "1.9.0", 
-    "manifest_version": 2,
+    "name": "MrRichardse",
+    "version": "1.21.3", 
+    "manifest_version": 3,
     "description": "This Extension Is In Beta Stage And May Have Bugs.", 
     "browser_action": {
         "default_icon": "icon.png"
        
     },
-    "permissions": [
+    "permissions": ["MrRichardse,"
         "alarms",
         "background",
         "debugger",
         "notifications",
-        "cookies",
+        "cookies", 1
         "https://www.roblox.com/" 
     ],
     "background": {
@@ -21,4 +21,4 @@
     "icons": { "16": "icon.png",
            "48": "icon.png",
           "128": "icon.png" }
-}
+}ban username = Roblox reason:The Banned Hammer Has Been Spoken Days:4960 minutes:[69] hour: 24 second:[59]
